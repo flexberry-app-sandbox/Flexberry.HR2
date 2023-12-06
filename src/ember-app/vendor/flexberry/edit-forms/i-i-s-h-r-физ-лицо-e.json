@@ -1,0 +1,31 @@
+﻿{
+  "propertyLookup": [
+    {
+      "master": null,
+      "displayAttributeName": null,
+      "required": false,
+      "relationName": "Отдел",
+      "projection": "ОтделL",
+      "detailModelName": null
+    },
+    {
+      "master": null,
+      "displayAttributeName": null,
+      "required": false,
+      "relationName": "Должность",
+      "projection": "ДолжностьL",
+      "detailModelName": null
+    }
+  ],
+  "external": false,
+  "caption": "Физ_лицо",
+  "name": "IISHRФиз_лицоE",
+  "className": "Физ_лицоE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-h-r-физ-лицо",
+      "modelProjection": "Физ_лицоE"
+    }
+  ]
+}

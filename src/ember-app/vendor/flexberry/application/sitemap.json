@@ -1,0 +1,57 @@
+﻿{
+  "applicationCaption": "HR",
+  "applicationTitle": "HR",
+  "items": [
+    {
+      "link": null,
+      "menuName": "h-r",
+      "caption": "HR",
+      "title": "HR",
+      "children": [
+        {
+          "link": "i-i-s-h-r-отдел-l",
+          "menuName": null,
+          "caption": "Отдел",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-h-r-должность-l",
+          "menuName": null,
+          "caption": "Должность",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-h-r-т-ч-отчета-l",
+          "menuName": null,
+          "caption": "Т ч_отчета",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-h-r-сотрудник-l",
+          "menuName": null,
+          "caption": "Сотрудник",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-h-r-анкета-l",
+          "menuName": null,
+          "caption": "Анкета",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-h-r-физ-лицо-l",
+          "menuName": null,
+          "caption": "Физ_лицо",
+          "title": "",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "mobile": true
+}

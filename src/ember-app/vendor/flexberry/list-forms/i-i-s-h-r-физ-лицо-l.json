@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-h-r-физ-лицо-e",
+  "editForm": "i-i-s-h-r-физ-лицо-e",
+  "external": false,
+  "caption": "Физ_лицо",
+  "name": "IISHRФиз_лицоL",
+  "className": "Физ_лицоL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-h-r-физ-лицо",
+      "modelProjection": "Физ_лицоL"
+    }
+  ]
+}
