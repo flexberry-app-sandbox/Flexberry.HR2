@@ -21,6 +21,11 @@ Router.map(function () {
   { path: 'i-i-s-h-r-отдел-e/:id' });
   this.route('i-i-s-h-r-отдел-e.new',
   { path: 'i-i-s-h-r-отдел-e/new' });
+  this.route('i-i-s-h-r-отчет-e');
+  this.route('null',
+  { path: 'null/:id' });
+  this.route('null.new',
+  { path: 'null/new' });
   this.route('i-i-s-h-r-сотрудник-l');
   this.route('i-i-s-h-r-сотрудник-e',
   { path: 'i-i-s-h-r-сотрудник-e/:id' });

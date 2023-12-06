@@ -1,0 +1,15 @@
+﻿{
+  "newForm": null,
+  "editForm": null,
+  "external": false,
+  "caption": "ОтчетE",
+  "name": "IISHRОтчетE",
+  "className": "ОтчетE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-h-r-отчет",
+      "modelProjection": "ОтчетE"
+    }
+  ]
+}

@@ -4,6 +4,7 @@ import EmberFlexberryTranslations from 'ember-flexberry/locales/ru/translations'
 import IISHRАнкетаLForm from './forms/i-i-s-h-r-анкета-l';
 import IISHRДолжностьLForm from './forms/i-i-s-h-r-должность-l';
 import IISHRОтделLForm from './forms/i-i-s-h-r-отдел-l';
+import IISHRОтчетEForm from './forms/i-i-s-h-r-отчет-e';
 import IISHRСотрудникLForm from './forms/i-i-s-h-r-сотрудник-l';
 import IISHRТЧ_отчетаLForm from './forms/i-i-s-h-r-т-ч-отчета-l';
 import IISHRФиз_лицоLForm from './forms/i-i-s-h-r-физ-лицо-l';
@@ -140,6 +141,7 @@ $.extend(true, translations, {
     'i-i-s-h-r-анкета-l': IISHRАнкетаLForm,
     'i-i-s-h-r-должность-l': IISHRДолжностьLForm,
     'i-i-s-h-r-отдел-l': IISHRОтделLForm,
+    'i-i-s-h-r-отчет-e': IISHRОтчетEForm,
     'i-i-s-h-r-сотрудник-l': IISHRСотрудникLForm,
     'i-i-s-h-r-т-ч-отчета-l': IISHRТЧ_отчетаLForm,
     'i-i-s-h-r-физ-лицо-l': IISHRФиз_лицоLForm,
